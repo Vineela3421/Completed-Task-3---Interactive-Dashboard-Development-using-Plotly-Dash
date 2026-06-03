@@ -1,4 +1,4 @@
-Task-3---Interactive-Dashboard-Development-using-Plotly-Dash
+
 # CodeTech Task 3 - Dashboard Development
 
 ## Objective
